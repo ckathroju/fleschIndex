@@ -18,3 +18,8 @@ The readability index gives an idea of how easy the material is to understand.
 |50-60 | Fairly difficult |
 |30-50 | Difficult |
 |< 30 | Very difficult |
+
+### Compile
+make
+### Run
+./fleschIndex testing.txt
