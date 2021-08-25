@@ -1,4 +1,4 @@
-# fleschIndex
+# Flesch Index
 
 This program calculates the Flesch Index for any given text file. It also calculates the syllable count, word count and sentence count.
 
